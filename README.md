@@ -1,36 +1,28 @@
-# Link do notebook: https://colab.research.google.com/drive/1ZT-RLiBfqTlVbDaOzH_eF4FkQajGXVA7?usp=sharing
+Link do notebook para visualização WEB (mesmo que case_accidents.ipynb): https://colab.research.google.com/drive/1ZT-RLiBfqTlVbDaOzH_eF4FkQajGXVA7?usp=sharing
 
 
-Desafio
+# Desafio
 Prever a ocorrência de algum ferimento em um acidente de carro.
-Instruções:
-Coleta e tratamento de dados.
 
-Modelagem:
-
+# Instruções:
+1. Coleta e tratamento de dados.
+2. Modelagem:
 a) Aplique um algoritmo de Regressão Linear para prever a ocorrência de ferimento em um acidente de carro.
-
 b) Aplique outro modelo, de sua escolha.
-
 c) Escolha e aplique métricas para avaliação dos modelos. Explique.
-
-Visualização e Interpretação:
-
+3. Visualização e Interpretação:
 a) Gere gráficos relevantes.
-
 b) Explique o que os gráficos indicam e discuta se os modelos são confiáveis para ajudar na tomada de decisões.
-
-Limitações e Melhorias:
-
+4. Limitações e Melhorias:
 a) Discuta as limitações dos modelos que você criou.
-
 b) Sugira melhorias possíveis.
 
-Entrega:
-Um notebook Python (.ipynb) com o código completo.
-Um relatório explicando os resultados obtidos e as limitações do modelo.
-Não se esqueça de analisar os resultados obtidos!
-Atributos
+# Entrega:
+1. Um notebook Python (.ipynb) com o código completo.
+2. Um relatório explicando os resultados obtidos e as limitações do modelo.
+3. Não se esqueça de analisar os resultados obtidos!
+
+# Atributos
 Rush Hour,"1=rush hour, 0=not (rush = 6-9 am, 4-7 pm)
 
 Alcohol Involved,"Alcohol involved = 1, not involved = 0"
