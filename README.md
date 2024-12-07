@@ -5,24 +5,39 @@ Link do notebook para visualização WEB (mesmo que case_accidents.ipynb): https
 Prever a ocorrência de algum ferimento em um acidente de carro.
 
 # Instruções:
+
 1. Coleta e tratamento de dados.
+
 2. Modelagem:
+
 a) Aplique um algoritmo de Regressão Linear para prever a ocorrência de ferimento em um acidente de carro.
+
 b) Aplique outro modelo, de sua escolha.
+
 c) Escolha e aplique métricas para avaliação dos modelos. Explique.
-3. Visualização e Interpretação:
+
+4. Visualização e Interpretação:
+
 a) Gere gráficos relevantes.
+
 b) Explique o que os gráficos indicam e discuta se os modelos são confiáveis para ajudar na tomada de decisões.
-4. Limitações e Melhorias:
+
+5. Limitações e Melhorias:
+
 a) Discuta as limitações dos modelos que você criou.
+
 b) Sugira melhorias possíveis.
 
 # Entrega:
+
 1. Um notebook Python (.ipynb) com o código completo.
+
 2. Um relatório explicando os resultados obtidos e as limitações do modelo.
+
 3. Não se esqueça de analisar os resultados obtidos!
 
 # Atributos
+
 Rush Hour,"1=rush hour, 0=not (rush = 6-9 am, 4-7 pm)
 
 Alcohol Involved,"Alcohol involved = 1, not involved = 0"
